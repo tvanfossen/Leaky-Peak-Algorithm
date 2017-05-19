@@ -12,7 +12,6 @@
 ###Additional buffer to output instant PtP/IBI for HRV
 ###Further refinements in peak detection, seems to have error in picking the correct position
 ###Statistical adjustment of the data - Hold an average heart rate or average HRV to adjust the decay rate based on typical changes
-    #Sean's writeup makes mention of adjusting the decay based on the age of user...?
 ###More informative commenting....
 
 import redis
